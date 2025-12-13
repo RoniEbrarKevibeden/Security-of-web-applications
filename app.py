@@ -1,0 +1,3 @@
+AUTH_TOKEN = "ENV{AUTH_TOKEN}"
+print(AUTH_TOKEN)
+
